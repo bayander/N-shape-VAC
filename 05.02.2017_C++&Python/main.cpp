@@ -1,4 +1,5 @@
 #include "physicalstuff.h"
+#include <stdio.h>
 
 PhysicalStuff *Take;
 
